@@ -60,7 +60,8 @@ From the needfinding activity, First, I concluded that students want to borrow m
 
 ## 2. DATABASE
 ### 2.1 EER Diagram
- ![EER Diagram](../../img/OCCBio_EER_Diagram.png)
+![EER Diagram](../../img/OccBio_EER_Diagram.png)
+![EER Diagram](../../img/OccBio_EER_Diagram.png)
 ### 2.2 EER to Relational Mapping
 ![EER_To_Relational](../../img/EER_Relational.png)
 ### 2.3 Flow Chart
